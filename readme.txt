@@ -1,4 +1,4 @@
-=== Google Plus Widget ===
+=== Like Box Widget for Facebook ===
 Contributors: osp_wpfx
 Tags: facebook, facebook like box, like box, facebook likes, facebook plugins, facebook widgets
 Requires at least: 2.6
