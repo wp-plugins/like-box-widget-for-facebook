@@ -9,7 +9,7 @@ An easy-to-use plugin which allows you to add a Facebook Like Box anywhere on yo
 
 == Description ==
 
-The Like Box Widget for Facebook allows you to add a Facebook Like Box to you WordPress site.  You can set the width and height of the widget to fit in virtually any template.  You can also set the number of connections you wish to show along with enabling your most recent Facebook posts.
+The Like Box Widget for Facebook (<a href="http://www.webpagefx.com" target="_blank">developed by WebpageFX</a>), allows you to add a Facebook Like Box to you WordPress site.  You can set the width and height of the widget to fit in virtually any template.  You can also set the number of connections you wish to show along with enabling your most recent Facebook posts.
 
 Please note that the SOAP package will need to be installed on your host server.  This is most likely already installed if you are hosting your WordPress site with a commercial host.  But if you experience problems or errors related to SOAP calls, please double check with your hosting provider.
 
